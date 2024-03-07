@@ -1,6 +1,7 @@
 import { cn } from "@/utils/cn";
 import React from "react";
 import { motion } from "framer-motion";
+import { createNoise3D } from "simplex-noise";
 
 export const BackgroundGradient = ({
   children,
