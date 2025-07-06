@@ -15,13 +15,10 @@ function HeroSection() {
           Master the Art of Music
         </h1>
         <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-          similique temporibus nihil amet dolores, nisi pariatur porro neque
-          aliquam rem eligendi, sapiente, omnis minus quisquam quaerat expedita
-          nulla. Aliquid, ipsum.
+          Unleash your musical potential with our all-in-one Music Academy App — where passion meets practice! Learn instruments, vocals, and music theory from expert instructors at your own pace. Track your progress, join live sessions, and explore a world of rhythm and melody, anytime, anywhere. Start your musical journey today!
         </p>
         <div className="mt-4">
-          <Link href={"/courses"}>
+          <Link href={"/Courses"}>
             <Button
               borderRadius="1.75rem"
               className="bg-white dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-slate-800"

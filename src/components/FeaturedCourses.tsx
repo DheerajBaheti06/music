@@ -43,7 +43,7 @@ function FeaturedCourses() {
                   <p className="text-sm text-neutral-600 dark:text-neutral-400 flex-grow">
                     {course.description}
                   </p>
-                  <Link href={`/courses/${course.slug}`}>Learn More</Link>
+                  <Link href={`/Courses/${course.slug}`}>Learn More</Link>
                 </div>
               </BackgroundGradient>
             </div>
@@ -51,7 +51,7 @@ function FeaturedCourses() {
         </div>
       </div>
       <div className="mt-20 text-center">
-        <Link href={"/courses"}>View All Courses</Link>
+        <Link href={"/Courses"}>View All Courses</Link>
       </div>
     </div>
   );
