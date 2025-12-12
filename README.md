@@ -1,6 +1,6 @@
 # Live Demo
 
-[https://music-dheerajbaheti-projects.vercel.app/](https://music-dheerajbaheti-projects.vercel.app/)
+[https://music-dheerajbaheti-projects.vercel.app/]([https://music-dheerajbaheti-projects.vercel.app/](https://music-beta-bice.vercel.app/))
 
 # Music School – Next.js & Tailwind CSS
 
